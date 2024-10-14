@@ -1,4 +1,4 @@
-Tired of spending an hour trying to set up a simple typescript project... me too. 
+Tired of spending an hour trying to set up a simple typescript project w prettier... me too. 
 
 Add this to your .zshrc file. 
 
