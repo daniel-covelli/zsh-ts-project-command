@@ -1,3 +1,13 @@
+Tired of spending an hour trying to set up a simple typescript project... me too. 
+
+Add this to your .zshrc file. 
+
+Run it. 
+`setup_ts_project my-project-name`
+
+Done.
+
+```
 setup_ts_project() {
   # Check if a project name was provided
   if [ -z "$1" ]; then
@@ -42,3 +52,4 @@ setup_ts_project() {
 
   echo "TypeScript project $1 has been set up successfully!"
 }
+```
